@@ -1,0 +1,5 @@
+# Machine Learning in Network Traffic Analysis
+
+The primary goal of this project is to predict websites and usage based on network traffic data. To accomplish this, we use a machine learning algorithm, specifically logistic regression from the scikit-learn library.
+
+The logistic regression algorithm is trained on a labeled dataset of traffic data, where the label is the website or usage associated with the data. The algorithm learns to make predictions on new, unseen data by finding patterns in the training data.
