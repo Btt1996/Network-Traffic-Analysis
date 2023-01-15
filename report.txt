@@ -1,0 +1,5 @@
+Traffic analysis report
+Model accuracy: 0.85
+Number of unsecured connections found: 2
+Number of unencrypted connections found: 1
+Number of clusters formed: 4
